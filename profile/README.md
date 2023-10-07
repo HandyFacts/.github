@@ -8,7 +8,7 @@ Nuestra misión en Handy Facts Corp es transformar los datos en conocimientos po
 ## **Visión:**
 En Handy Facts Corp, visualizamos un mundo donde cada organización, sin importar su tamaño o industria, tenga la capacidad de aprovechar plenamente el potencial de sus datos. Nos esforzamos por ser líderes reconocidos en el campo de la gestión de datos, siendo un socio confiable y valioso para nuestros clientes en su viaje hacia la excelencia en el análisis de datos. Trabajamos hacia un futuro donde los datos sean una ventaja competitiva para todos, y donde Handy Facts Corp sea sinónimo de innovación, calidad y éxito en el mundo de los datos.
 
-## **Nuestra experiencia:**
+## **Nuestro enfoque:**
 - **Análisis de Datos**: Diseccionamos los datos con precisión, descubriendo patrones y tendencias que empoderan a las empresas a tomar decisiones respaldadas por datos.
 - **Ciencia de Datos**: Nuestros científicos de datos aplican análisis avanzados y modelado predictivo para extraer información valiosa, ofreciendo una ventaja competitiva.
 - **Ingeniería de Datos**: Diseñamos robustos flujos de datos, garantizando la disponibilidad, confiabilidad y escalabilidad de los datos para sus necesidades en constante evolución.
@@ -36,7 +36,7 @@ Our mission at Handy Facts Corp is to transform data into powerful insights. We 
 ## **Vision:**
 At Handy Facts Corp, we envision a world where every organization, regardless of its size or industry, has the ability to fully harness the potential of its data. We strive to be recognized leaders in the field of data management, serving as a trusted and valuable partner to our clients on their journey to data analysis excellence. We work towards a future where data is a competitive advantage for all, and where Handy Facts Corp is synonymous with innovation, quality, and success in the world of data.
 
-## **Our Expertise:**
+## **Our Focus:**
 - **Data Analysis**: We dissect data with precision, uncovering patterns and trends that empower businesses to make data-backed choices.
 - **Data Science**: Our data scientists apply advanced analytics and predictive modeling to extract valuable insights, offering a competitive edge.
 - **Data Engineering**: We architect robust data pipelines, ensuring data availability, reliability, and scalability for your evolving needs.
